@@ -2,4 +2,4 @@
 Name: RAMNA ASIM
 Program: BS Sotware Engineering
 Semester:01
-This repository is created for my ICT assignment
+This repository is created for my AICT assignment
